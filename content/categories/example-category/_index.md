@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: 电脑技巧
 description: A description of this category
 image:
 

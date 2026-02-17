@@ -1,11 +1,44 @@
-# Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+# 侧边栏主菜单
+[[main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+    [main.params]
+        icon = "home"
+
+[[main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+    [main.params]
+        icon = "archive"
+
+[[main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 3
+    [main.params]
+        icon = "search"
+
+[[main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 4
+    [main.params]
+        icon = "tag"
+
+[[main]]
+    identifier = "links"
+    name = "链接"
+    url = "/links/"
+    weight = 4
+    [main.params]
+        icon = "link"
+
 
 [[social]]
     identifier = "github"
