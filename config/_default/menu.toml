@@ -43,15 +43,20 @@
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    url        = "https://github.com/WolfeOvO"
 
     [social.params]
         icon = "brand-github"
 
 [[social]]
     identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
+    name       = "X (Twitter)"
+    url        = "https://x.com/_WolfeOvO_"
+
+[[social]]
+    identifier = "telegram"
+    name       = "Telegram"
+    url        = "https://t.me/WolfeOvO"
 
     [social.params]
         icon = "brand-twitter"

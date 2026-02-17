@@ -10,26 +10,26 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
-    customText = ""
+    since      = 2026
+    customText = "Wolfe Group"
 
 [dateFormat]
-    published   = ":date_full"
-    lastUpdated = ":date_full"
+    published   = "创建于 2006年1月2日 15:04"
+    lastUpdated = "最后更新于 2006年1月2日 15:04"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "🐺"
+    subtitle = "一个普普通通的个人博客"
     avatar   = "img/avatar.png"
 
 [article]
-    headingAnchor = false
-    math          = false
+    headingAnchor = true
+    math          = true
     readingTime   = true
 
     [article.license]
         enabled = true
-        default = "Licensed under CC BY-NC-SA 4.0"
+        default = "遵循 CC BY-NC-SA 4.0 协议发布，转载时请注明来源，侵权必究"
 
 [widgets]
     homepage = [

@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl      = "https://wolfeovo.github.io/blog"
 languageCode = "zh"
-title        = "Hugo Theme Stack Starter"
+title        = "Wolfeの博客"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
