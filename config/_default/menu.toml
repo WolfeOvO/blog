@@ -13,7 +13,7 @@
     url = "/archives/"
     weight = 2
     [main.params]
-        icon = "archive"
+        icon = "archives"
 
 [[main]]
     identifier = "search"
