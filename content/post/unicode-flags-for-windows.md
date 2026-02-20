@@ -5,9 +5,8 @@ tags: [Windows, emoji, 补丁, 修复]
 categories:
   - 电脑技巧
 ---
-# 为 Windows 10 和 11 打补丁以显示 Unicode 国旗表情 🇨🇳
 
-https://github.com/tuannvbg/unicode-flags-for-windows"
+[https://github.com/tuannvbg/unicode-flags-for-windows](https://github.com/tuannvbg/unicode-flags-for-windows)
 
 让 Unicode 国旗表情（例如 🇻🇳 🇺🇸 🇯🇵 🇫🇷 🇩🇪…）在 Windows 系统中的所有应用程序中正确显示：包括 Notepad、VS Code、Copilot PC 应用、Chrome、Edge、Firefox 等。
 
