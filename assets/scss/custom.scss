@@ -1,18 +1,22 @@
+/* ================= 引入外部字体 ================= */
+/* 引入 Noto Sans 和 Noto Serif 简繁体 (涵盖 400 Regular, 500 Medium, 600 Semi-Bold, 700 Bold) */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;500;600;700&display=swap');
+
+/* 引入 Maple Mono 编程字体 */
 @import url('https://cdn.jsdelivr.net/npm/@fontsource/maple-mono@latest/index.css');
 
 :root {
   /* ================= 普通文本字体 (黑体) ================= */
-  --vp-font-family-base: "Noto Sans TC", "Noto Sans SC" !important;
+  --vp-font-family-base: "Noto Sans TC", "Noto Sans SC", sans-serif !important;
   
   /* ================= 代码字体 ================= */
-  --vp-font-family-mono: "Maple Mono" !important;
+  --vp-font-family-mono: "Maple Mono", monospace !important;
 }
 
 /* ================= 标题单独设置 (宋体) ================= */
-/* 增加权重确保覆盖 VitePress 默认层级 */
+/* 增加权重确保覆盖框架默认层级 */
 h1, h2, h3, h4, h5, h6,
 .vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6,
 .title, .name {
-  font-family: "Noto Serif TC", "Noto Serif SC" !important;
+  font-family: "Noto Serif TC", "Noto Serif SC", serif !important;
 }
