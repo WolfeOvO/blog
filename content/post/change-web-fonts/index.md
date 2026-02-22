@@ -1,7 +1,11 @@
 ---
 title: 更改 Chrome 网页字体为思源黑体
 date: 2026-02-23
-tags: [Windows, Chrome, 字体, 替换]
+tags: 
+  - Windows
+  - Chrome
+  - 字体
+  - 替换
 categories:
   - 电脑技巧
 ---
