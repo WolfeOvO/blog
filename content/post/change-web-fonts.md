@@ -50,4 +50,8 @@ categories:
 
 ![](/photo/Snipaste_2026-02-23_02-29-22.png)
 
-## 最后：大功告成！
+## 最后……
+
+**如果还是有字体没换成想要的字体怎么办？**
+
+建议补充安装[**网页字体替换**](https://chromewebstore.google.com/detail/%E7%BD%91%E9%A1%B5%E5%AD%97%E4%BD%93%E6%9B%BF%E6%8D%A2/gomodbjdkhkojmdcdipoadijgloahkdl)来针对性替换掉默认字体，比如微软雅黑、Arial、Roboto 等等。
