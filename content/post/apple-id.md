@@ -18,3 +18,4 @@ categories:
 
 - [二猫子](https://wolfeovo.github.io/depot/%E5%A2%99%E5%A4%96%E6%8C%87%E5%8D%97/%E6%8E%A8%E8%8D%90%E6%9C%BA%E5%9C%BA/website.html#%E4%BA%8C%E7%8C%AB%E5%AD%90)：[https://www.ermao.net/blog/freeappleid/](https://www.ermao.net/blog/freeappleid/)
 - Goronto 分享：[https://gososhare.me/](https://gososhare.me/)
+- 账号分享：[https://id.idxxjc.site/share/QS4WDAJUunw](https://id.idxxjc.site/share/QS4WDAJUunw)
